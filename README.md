@@ -1,11 +1,12 @@
-🙌 Hi! I'm **Sungmin Yang**. And you can call me **Chris**.
+### 🙌  Hi! I'm **Sungmin Yang**. And you can call me **Chris**.
 
-👨🏻‍💻 I'm a **Front-end Engineer** and working remotely.
+### 👨🏻‍💻 I'm a **Front-end Engineer** and working remotely.
 
-These days, I interested in Jamstack, Serverless, Design System.
+### These days, I interested in Jamstack, Serverless, Design System.
 
-You can also find me on the following links.
+### You can also find me on the following links.
 
+<br>
 <div>
   <a href="https://ysm.sh/" target="_blank">
     <img src="https://raw.githubusercontent.com/ysm0622/ysm0622/master/home.svg">
