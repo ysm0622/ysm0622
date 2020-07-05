@@ -9,7 +9,7 @@ These days, I interested in Jamstack, Serverless, Design System.
 You can also find me on the following links.
 
 <div>
-  <a href="https://ysm.sh/" target="_blank" style="margin-right:16px;">
+  <a href="https://ysm.sh/" target="_blank">
     <img src="https://raw.githubusercontent.com/ysm0622/ysm0622/master/home.svg">
   </a>
   <a href="https://ysm.im/blog" target="_blank">
