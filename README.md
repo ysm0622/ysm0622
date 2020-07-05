@@ -1,16 +1,33 @@
-### Hi there 👋
+# Sungmin Yang.
 
-<!--
-**ysm0622/ysm0622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙌 Hi! I'm **Sungmin Yang**. And you can call me **Chris**.
 
-Here are some ideas to get you started:
+👨🏻‍💻 I'm a **Front-end Engineer** and working remotely.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+These days, I interested in Jamstack, Serverless, Design System.
+
+You can also find me on the following links.
+
+<div>
+  <a href="https://ysm.sh/" target="_blank" style="margin-right:16px;">
+    <img src="https://raw.githubusercontent.com/ysm0622/ysm0622/master/home.svg">
+  </a>
+  <a href="https://ysm.im/blog" target="_blank">
+    <img src="https://raw.githubusercontent.com/ysm0622/ysm0622/master/blog.svg">
+  </a>
+  <a href="https://ysm.im/github" target="_blank">
+    <img src="https://raw.githubusercontent.com/ysm0622/ysm0622/master/github.svg">
+  </a>
+  <a href="https://ysm.im/facebook" target="_blank">
+    <img src="https://raw.githubusercontent.com/ysm0622/ysm0622/master/facebook.svg">
+  </a>
+  <a href="https://ysm.im/linkedin" target="_blank">
+    <img src="https://raw.githubusercontent.com/ysm0622/ysm0622/master/linkedin.svg">
+  </a>
+  <a href="https://ysm.im/instagram" target="_blank">
+    <img src="https://raw.githubusercontent.com/ysm0622/ysm0622/master/instagram.svg">
+  </a>
+  <a href="https://ysm.im/twitter" target="_blank">
+    <img src="https://raw.githubusercontent.com/ysm0622/ysm0622/master/twitter.svg">
+  </a>
+</div>
