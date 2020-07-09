@@ -2,7 +2,7 @@
 
 👨🏻‍💻 I'm a **Front-end Engineer** and working remotely.
 
-These days, I interested in Jamstack, Serverless, Design System.
+These days, I interested in Jamstack, Serverless and Design System.
 
 You can also find me on the following links.
 
